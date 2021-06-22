@@ -1,4 +1,4 @@
-ADD TWO NUMBER
+//ADD TWO NUMBER
 
 public class Add
 {
