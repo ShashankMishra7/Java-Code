@@ -1,4 +1,4 @@
-public class Method
+public class Smethod
 {
 	public static void main(String[] args) {
 	    String name="harry";
